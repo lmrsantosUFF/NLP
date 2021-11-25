@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Basic frequency-based algorithm for summarization
+"""Frequency-based algorithm for summarization
 
 ## Text pre-processing
 """
